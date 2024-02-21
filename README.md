@@ -14,7 +14,7 @@ Certifique-se de ter o seguinte software instalado em sua máquina antes de util
 1. Clone este repositório:
 
    ```bash
-   git clone https://github.com/renatinho1134/Vagrant-Elasticsearch.git
+   git clone https://github.com/renatinho1134/Vagrant-Elasticsearch.git 
    ```
 2. Entre na pasta (se você tiver adicionado em outra pasta, lembre-se de colocar o caminho absoluto):
 
